@@ -1,1 +1,1 @@
-# enzymeKinematicsMATLAB
+# enzymeKineticsMATLAB
